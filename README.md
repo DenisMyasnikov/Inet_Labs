@@ -24,7 +24,7 @@
 [Ссылка на файл](https://disk.yandex.ru/d/oMq0izGjgrikCw)
 
 
-## Экзаменационный билет №017
+## Экзаменационный билет №2
 Ответы на выбранный билет:
 
 [Билет №2](https://github.com/DenisMyasnikov/Inet_Labs/wiki/Bilet_2)

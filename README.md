@@ -5,7 +5,7 @@
 2. Создание пользователя
 3. Создание репозитория
 
-[Ссылка на результат](https://github.com/DenisMyasnikov/Inet_Labs/edit/main/README.md)
+[Ссылка на результат](https://github.com/DenisMyasnikov/Inet_Labs)
 
 
 ## Лабораторная работа №2
@@ -27,4 +27,4 @@
 ## Экзаменационный билет №017
 Ответы на выбранный билет:
 
-[Билет №2]()
+[Билет №2](https://github.com/DenisMyasnikov/Inet_Labs/wiki/Bilet_2)
